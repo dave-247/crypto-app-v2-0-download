@@ -4,7 +4,7 @@ Crypto App V2.0 is a decentralized cryptocurrency wallet and trading platform fo
 
 Welcome to the **Crypto App V2.0** repository!
 
-This is the official repository for **Crypto App V2.0**, a decentralized cryptocurrency wallet and trading platform for your Android device. The app offers an intuitive user interface, advanced security features, and seamless integration with multiple cryptocurrency networks.
+This is the official repository for **Crypto App V2.0**, a centralized cryptocurrency wallet and trading platform for your Android device. The app offers an intuitive user interface, advanced security features, and seamless integration with multiple cryptocurrency networks.
 
 With **Crypto App V2.0**, you can store, manage, and trade a variety of cryptocurrencies securely and with ease.
 
@@ -18,8 +18,8 @@ With **Crypto App V2.0**, you can store, manage, and trade a variety of cryptocu
 
 ## Requirements
 
-- **Android version**: 5.0 (Lollipop) or higher.
-- **Storage**: At least 100 MB of free storage space.
+- **Android version**: 14. (Lollipop) or higher.
+- **Storage**: At least 300MB of free storage space.
 - **Permissions**: Access to storage, network, and location for transaction and wallet features.
 
 ## How to Download
